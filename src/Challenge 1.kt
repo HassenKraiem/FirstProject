@@ -1,3 +1,4 @@
+//First methode :
 fun main () {
     val image = listOf(
         listOf(1, 1, 0, 0, 0, 1),
